@@ -1,28 +1,30 @@
-# JavaScript Syntax
+# Node.js Basics
 
-Este repositório contém exemplos e exercícios relacionados à sintaxe do JavaScript.
+Este repositório contém exemplos e exercícios básicos para iniciantes em Node.js.
 
 ## Conteúdo
 
-- **Seção 03 - Início**: Tipos primitivos e Lógica de programação.
-- **Seção 04 - Fundamentos**: Let, Var, Array, Function, Object, Operadores, Loop e Tratamento de erros.
-- **Seção 05 - Estruturas de Controle**: If, Else, Switch, Break, Continue, While, For e Do-While.
-- **Seção 06 - Funções**
-- **Seção 07 - Objetos**
-- **Seção 08 - Arrays**
+- **Diversos arquivos JavaScript**: Exemplos de módulos, temporizadores, manipulação de arquivos, etc.
 
 ## Tecnologias Utilizadas
 
-- JavaScript
+- Node.js
 
-## Como Utilizar
+## Como Executar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/kerlenmelo/javascript-syntax.git
+   git clone https://github.com/kerlenmelo/nodejs-basics.git
    ```
 2. Navegue até o diretório desejado:
    ```bash
-   cd javascript-syntax/
+   cd nodejs-basics/ProjectAPI
    ```
-3. Execute os arquivos JavaScript com o Node.js ou abra-os no navegador.
+3. Instale as dependências, se houver:
+   ```bash
+   npm install
+   ```
+4. Execute o arquivo principal:
+   ```bash
+   node index.js
+   ```
